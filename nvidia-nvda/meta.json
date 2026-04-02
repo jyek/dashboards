@@ -1,0 +1,8 @@
+{
+  "name": "NVIDIA (NVDA)",
+  "slug": "nvidia-nvda",
+  "deployed_at": "2026-04-02T23:16:20.849177Z",
+  "files": [
+    "dashboard.html"
+  ]
+}
