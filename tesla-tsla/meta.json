@@ -1,5 +1,8 @@
 {
   "name": "Tesla (TSLA)",
   "slug": "tesla-tsla",
-  "deployed_at": "2026-04-02T21:51:39.130849Z"
+  "deployed_at": "2026-04-03T10:36:40.962321Z",
+  "files": [
+    "dashboard.html"
+  ]
 }
